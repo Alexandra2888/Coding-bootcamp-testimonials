@@ -24,13 +24,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![img_1.png](img_1.png)
+
+![img.png](img.png)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://coding-bootcamp-testimonials-28.netlify.app/)
 
 ## My process
 
@@ -48,6 +50,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Alexandra2888](https://www.your-site.com)
+- Website - [Alexandra2888](https://coding-bootcamp-testimonials-28.netlify.app/)
 - Frontend Mentor - [@Alexandra2888](https://www.frontendmentor.io/profile/Alexandra2888)
 
