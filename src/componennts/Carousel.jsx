@@ -14,28 +14,7 @@ const handlePrev = () => {
     setSlide(slide === 0 ? dataCarousel.length - 1 : slide - 1);
 }
 
-
-
     return (
-//         <main className="h-min-screen relative">
-//             <div className="relative w-full">
-//                 <div className="bg-[url('public/images/pattern-bg.svg')] bg-no-repeat bg-cover max-w-[15.75rem] max-h-[12.4375rem] -rotate-90 "></div>
-//                       <div> <img src={dataCarousel[slide].img} alt={dataCarousel[slide].name} className="w-full h-auto max-w-[20.75rem] mad:max-w-[35rem] mx-9 mt-10"/>
-//                         <div>
-//                         <button onClick={handlePrev}><img src="public/images/icon-prev.svg" alt="prev"/></button>
-//                         <button onClick={handleNext}><img src="public/images/icon-next.svg" alt="next"/></button>
-//                         </div>
-//                         <img src="public/images/pattern-quotes.svg" alt="quotes" className="w-[3.75rem] h-[height: 3.125rem;
-// ]"/>
-//                         <p className="text-primary-blue text-center font-light text-xl z-10 leading-normal px-8">{dataCarousel[slide].text}</p>
-//                         <div className="mx-32">
-//                             <h1 className="text-primary-dark-blue text-center text-[0.9375rem] font-bold leading-tight">{dataCarousel[slide].name}</h1>
-//                             <p className="text-primary-grayish-blue text-center text-[0.9375rem] font-medium leading-tight">{dataCarousel[slide].occupation}</p>
-//                         </div>
-//                     </div>
-//             </div>
-//             <img src="public/images/pattern-curve.svg" alt="curve" className="absolute bottom-0 left-0 w-full"/>
-//         </main>
         <main
             className="lg:flex justify-center items-center min-h-screen bg-[url('public/images/pattern-curve.svg')] bg-[length:280px_100px] lg:bg-[length:600px_200px] bg-no-repeat bg-left-bottom">
             <div className="flex flex-col lg:flex-row-reverse lg:w-full lg:max-w-[80rem] items-center py-10">
