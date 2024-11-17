@@ -48,7 +48,7 @@ const handlePrev = () => {
                             <h1 className="text-Dark-Blue inter-700 lg:text-[1.2rem]">
                                 {dataCarousel[slide].name}
                             </h1>
-                            <p className="text-Grayish-Blue lg:text-[1.1rem]">{dataCarousel[slide].occupation}</p>
+                            <p className="text-primary-grayish-blue lg:text-[1.1rem]">{dataCarousel[slide].occupation}</p>
                         </div>
                     </div>
                 </div>
