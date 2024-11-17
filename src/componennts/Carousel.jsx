@@ -16,10 +16,10 @@ const handlePrev = () => {
 
     return (
         <main
-            className="lg:flex justify-center items-center min-h-screen bg-[url('public/images/pattern-curve.svg')] bg-[length:280px_100px] lg:bg-[length:600px_200px] bg-no-repeat bg-left-bottom">
+            className="lg:flex justify-center items-center min-h-screen bg-[url('/images/pattern-curve.svg')] bg-[length:280px_100px] lg:bg-[length:600px_200px] bg-no-repeat bg-left-bottom">
             <div className="flex flex-col lg:flex-row-reverse lg:w-full lg:max-w-[80rem] items-center py-10">
                 <div
-                    className="sm:max-w-[35rem] sm:mx-auto lg:max-w-none lg:w-[90%] bg-[url('public/images/pattern-bg.svg')] bg-no-repeat bg-contain bg-top px-6 pt-3 flex justify-center items-center flex-col relative">
+                    className="sm:max-w-[35rem] sm:mx-auto lg:max-w-none lg:w-[90%] bg-[url('/images/pattern-bg.svg')] bg-no-repeat bg-contain bg-top px-6 pt-3 flex justify-center items-center flex-col relative">
                     <div
                         className="transition-opacity duration-500 ease-in-out py-8"
                     >
